@@ -6,4 +6,4 @@ description: Owe it to the ASCII club of Amrita.
 
 **Hope i am doing things ryt**.  
 
-*Bear with me for the rookie mistakes* :p
+*Bear with me for the rookie mistakes* :D
