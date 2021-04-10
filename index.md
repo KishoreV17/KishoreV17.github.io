@@ -1,11 +1,12 @@
+# GitHub Page - Kishore V
+
+## Welcome to the KishoreV17's homepage. 
 
  
-
-# GitHub Page - Kishore V
+### description: Owe it to the ASCII club of Amrita. 
 
 **Hope i am doing things ryt**.  
 
 *Bear with me for the rookie mistakes* :D
 
-title: Welcome to the KishoreV17's homepage.  
-description: Owe it to the ASCII club of Amrita. 
+
