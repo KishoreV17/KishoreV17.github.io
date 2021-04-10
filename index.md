@@ -7,4 +7,6 @@
 
 *Bear with me for the rookie mistakes* :D
 
+Still finding way around Git and GitHub. :P
+
 
